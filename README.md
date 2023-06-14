@@ -45,6 +45,9 @@ The sentiment analysis model is trained using logistic regression on a labeled d
 - Matplotlib and Seaborn: Used for data visualization.
 
 <br>
+# Sample Results
+<br>
+
 ## Heading 1
 
 ![Description 1](https://miro.medium.com/max/1200/1*sDa7Oqnh-zRXPPewKZid4g.png)
