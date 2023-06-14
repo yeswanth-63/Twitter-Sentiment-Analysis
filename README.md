@@ -46,7 +46,6 @@ The sentiment analysis model is trained using logistic regression on a labeled d
 
 <br>
 # Sample Results
-<br>
 
 ## Heading 1
 
