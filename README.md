@@ -45,24 +45,11 @@ The sentiment analysis model is trained using logistic regression on a labeled d
 - Matplotlib and Seaborn: Used for data visualization.
 
 <br>
-<br>
-## Sample Results
-<br>
-<br>
-## for positive tweet
-![Sample Result 1](https://miro.medium.com/max/1200/1*sDa7Oqnh-zRXPPewKZid4g.png)
-<br>
-<br>
-## for negative tweet
-![Sample Result 1](https://miro.medium.com/max/1200/1*sDa7Oqnh-zRXPPewKZid4g.png)
-<br>
-<br>
-## for neutal tweet
-![Sample Result 1](https://miro.medium.com/max/1200/1*sDa7Oqnh-zRXPPewKZid4g.png)
-<br>
-<br>
-## for irrelevant tweet
-![Sample Result 1](https://miro.medium.com/max/1200/1*sDa7Oqnh-zRXPPewKZid4g.png)
-<br>
+## Heading 1
 
+![Description 1](https://miro.medium.com/max/1200/1*sDa7Oqnh-zRXPPewKZid4g.png)
+
+## Heading 2
+
+![Description 2](https://miro.medium.com/max/1200/1*sDa7Oqnh-zRXPPewKZid4g.png)
 
