@@ -44,7 +44,6 @@ The sentiment analysis model is trained using logistic regression on a labeled d
 - Pandas: Used for data manipulation and analysis.
 - Matplotlib and Seaborn: Used for data visualization.
 
-<br>
 # Sample Results
 
 ## Heading 1
