@@ -17,3 +17,12 @@ This is a Streamlit-based web application that performs sentiment analysis on Tw
 
 ### 🔗 https://mylink
 <br>
+<br>
+
+## Technologies Used
+
+- **Web Framework** :- Streamlit(A Python framework for building interactive web applications)
+- **Python
+- **Libraries for sentiment analysis** :- NLTK(Natural Language Toolkit for text processing and sentiment analysis)
+
+<br>
