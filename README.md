@@ -46,11 +46,19 @@ The sentiment analysis model is trained using logistic regression on a labeled d
 
 # Sample Results
 
-## Heading 1
+## for positive sentiment 😄
 
 ![Description 1](https://miro.medium.com/max/1200/1*sDa7Oqnh-zRXPPewKZid4g.png)
 
-## Heading 2
+## for negative sentiment 😞
 
 ![Description 2](https://miro.medium.com/max/1200/1*sDa7Oqnh-zRXPPewKZid4g.png)
+
+## for neutral sentiment 😐
+
+![Description 1](https://miro.medium.com/max/1200/1*sDa7Oqnh-zRXPPewKZid4g.png)
+
+## for Irrelevant sentiment ❓
+
+![Description 1](https://miro.medium.com/max/1200/1*sDa7Oqnh-zRXPPewKZid4g.png)
 
