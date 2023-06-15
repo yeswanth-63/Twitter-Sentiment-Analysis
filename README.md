@@ -1,4 +1,4 @@
-![project_image](https://miro.medium.com/max/1200/1*sDa7Oqnh-zRXPPewKZid4g.png)
+![project_image](images/twitter_page.54.jpg)
 <br>
 # Twitter Sentiment Analysis App 😄😞😐❓
 <br>
