@@ -2,6 +2,8 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import pickle
+import nltk
+nltk.download('punkt')
 st.title("Twitter sentiment analysis(😄😞😐❓)")
 st.subheader('Single tweet classification :')
 st.write('  * Positive sentiment  :😄')
