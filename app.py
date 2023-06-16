@@ -13,7 +13,7 @@ st.write('  *   irrelevant sentiment:🤔')
 tweet_input=st.text_input("enter tweet :")
 model=pickle.load(open('twitter_logist_clf.pickle', "rb"))
 vectorizer=pickle.load(open('bow_counts.pickle',"rb"))
-if st.button(':blue[analyse]'):
+if st.button(':green[analyse]'):
     st.write("prediction:")
     bow=vectorizer.transform([tweet_input])
     sentiment=model.predict(bow)
