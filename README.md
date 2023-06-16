@@ -48,7 +48,7 @@ The sentiment analysis model is trained using logistic regression on a labeled d
 
 ## for positive sentiment 😄
 
-![Description 1](https://miro.medium.com/max/1200/1*sDa7Oqnh-zRXPPewKZid4g.png)
+![Description 1](https://github.com/yeswanth-63/Twitter-Sentiment-Analysis/blob/main/images/for_positive_tweet_prediciton.png)
 
 ## for negative sentiment 😞
 
