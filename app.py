@@ -23,6 +23,7 @@ if st.button(':green[analyse]'):
         st.markdown(f"<span style='font-size: 60px'>{emoji}</span>", unsafe_allow_html=True)
     elif sentiment=='Positive':
         st.write('Positive')
+        st.snow()
         emoji="😀"
         st.markdown(f"<span style='font-size: 60px'>{emoji}</span>", unsafe_allow_html=True)
     elif sentiment=='Neutral':
