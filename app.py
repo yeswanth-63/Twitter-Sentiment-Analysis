@@ -4,6 +4,7 @@ import pandas as pd
 import pickle
 import nltk
 nltk.download('punkt')
+st.image("https://github.com/yeswanth-63/Twitter-Sentiment-Analysis/blob/main/images/OIP.jpeg",width=100)
 st.title(":blue[Twitter sentiment analysis](😄😞😐🤔)")
 st.subheader(':orange[Single tweet classification :]')
 st.write('  * Positive sentiment  :😄')
