@@ -5,7 +5,7 @@ import pickle
 import nltk
 nltk.download('punkt')
 st.title(":blue[Twitter sentiment analysis](😄😞😐🤔)")
-st.subheader('Single tweet classification :')
+st.subheader(':orange:[Single tweet classification :]')
 st.write('  * Positive sentiment  :😄')
 st.write('  * negative sentiment  :😞')
 st.write('  * neutral sentiment   :😐' )
@@ -13,7 +13,7 @@ st.write('  *   irrelevant sentiment:🤔')
 tweet_input=st.text_input("enter tweet :")
 model=pickle.load(open('twitter_logist_clf.pickle', "rb"))
 vectorizer=pickle.load(open('bow_counts.pickle',"rb"))
-if st.button('analyse'):
+if st.button(':blue[analyse]'):
     st.write("prediction:")
     bow=vectorizer.transform([tweet_input])
     sentiment=model.predict(bow)
