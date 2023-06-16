@@ -1,6 +1,6 @@
 ![project_image](images/twitter_page.54.jpg)
 <br>
-# Twitter Sentiment Analysis App 😄😞😐❓
+# Twitter Sentiment Analysis App 😄😞😐🤔
 <br>
 <br>
 
@@ -15,7 +15,7 @@ This is a Streamlit-based web application that performs sentiment analysis on Tw
 ## Live Link
 **Hosted on streamlit**
 
-### 🔗 https://mylink
+### 🔗https://yeswanth-63-twitter-sentiment-analysis-app-frp4ku.streamlit.app/
 <br>
 <br>
 
@@ -52,15 +52,15 @@ The sentiment analysis model is trained using logistic regression on a labeled d
 
 ## for negative sentiment 😞
 
-![Description 2](https://miro.medium.com/max/1200/1*sDa7Oqnh-zRXPPewKZid4g.png)
+![Description 2](https://github.com/yeswanth-63/Twitter-Sentiment-Analysis/blob/main/images/for_negative_prediction.png )
 
 ## for neutral sentiment 😐
 
-![Description 1](https://miro.medium.com/max/1200/1*sDa7Oqnh-zRXPPewKZid4g.png)
+![Description 1](https://github.com/yeswanth-63/Twitter-Sentiment-Analysis/blob/main/images/neutral_tweet_prediction.png )
 
-## for Irrelevant sentiment ❓
+## for Irrelevant sentiment 🤔
 
-![Description 1](https://miro.medium.com/max/1200/1*sDa7Oqnh-zRXPPewKZid4g.png)
+![Description 1](https://github.com/yeswanth-63/Twitter-Sentiment-Analysis/blob/main/images/for_irrelevant_prediction.png )
 
 ## Thank You!
 Thank you. **I hope you liked the project**.
