@@ -4,7 +4,7 @@ import pandas as pd
 import pickle
 import nltk
 nltk.download('punkt')
-st.title("blue[Twitter sentiment analysis](😄😞😐🤔)")
+st.title("Twitter sentiment analysis(😄😞😐🤔)")
 st.subheader('Single tweet classification :')
 st.write('  * Positive sentiment  :😄')
 st.write('  * negative sentiment  :😞')
